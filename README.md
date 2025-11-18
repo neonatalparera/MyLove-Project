@@ -1,2 +1,2 @@
 <b>MyLove-Project</b><br>
-This repo is for the 2025 International Conference on Consciousness and Science and Technology project.
+This repo is for the <i>International Conference on Awareness Science and Technology</i> (iCAST 2025)
